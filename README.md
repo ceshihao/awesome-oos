@@ -4,6 +4,8 @@
 
 A curated list of awesome AlibabaCloud OOS resources.
 
+[![OOS logo](./assets/oos.svg)](https://www.alibabacloud.com/product/oos)
+
 [Operation Orchestration Service (OOS)](https://www.alibabacloud.com/product/oos) is an automated operations and maintenance (O&M) service provided by Alibaba Cloud. OOS allows you to manage and execute O&M tasks.
 
 ## Contents
