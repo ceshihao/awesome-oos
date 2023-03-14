@@ -13,12 +13,20 @@ A curated list of awesome AlibabaCloud OOS resources.
 - [Awesome OOS](#awesome-oos)
   - [Contents](#contents)
   - [Infrastructure as Code](#infrastructure-as-code)
+  - [Integration](#integration)
   - [SDK](#sdk)
   - [Template](#template)
 
 ## Infrastructure as Code
 
 - [terraform-alicloud-oos](https://github.com/terraform-alicloud-modules/terraform-alicloud-oos) Terraform Module for creating Operation Orchestration Service(OOS) on Alibaba Cloud.
+
+## Integration
+
+- [Alibaba Cloud Assistant](https://www.alibabacloud.com/help/en/elastic-compute-service/latest/use-oos-parameter-store-in-cloud-assistant-commands) Use OOS Parameter Store in Cloud Assistant commands.
+- [Alibaba Cloud OOS](https://www.alibabacloud.com/help/en/operation-orchestration-service/latest/use-common-parameters-to-execute-templates) Use parameters or secret parameter to execute templates.
+- [Alibaba Cloud ROS](https://www.alibabacloud.com/help/en/resource-orchestration-service/latest/use-oos-parameter-store-to-create-parameters-for-ros-templates) Use OOS Parameter Store to create parameters for ROS templates.
+- [Dapr](https://docs.dapr.io/reference/components-reference/supported-secret-stores/alicloud-oos-parameter-store/) Use OOS secret parameter as dapr secret store component.
 
 ## SDK
 
