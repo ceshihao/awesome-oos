@@ -12,10 +12,15 @@ A curated list of awesome AlibabaCloud OOS resources.
 
 - [Awesome OOS](#awesome-oos)
   - [Contents](#contents)
+  - [Editor Plugin](#editor-plugin)
   - [Infrastructure as Code](#infrastructure-as-code)
   - [Integration](#integration)
   - [SDK](#sdk)
   - [Template](#template)
+
+## Editor Plugin
+
+- [Alibaba Cloud Toolkit](https://marketplace.visualstudio.com/items?itemName=Alibaba-CloudToolkit.alibaba-cloud-toolkit) Extension for Visual Studio Code (VS Code) which provides support for OOS template.
 
 ## Infrastructure as Code
 
